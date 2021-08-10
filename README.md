@@ -12,12 +12,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Ma solution](./images/screenshot.png)
+![Ma solution](./images/my-solution.png)
 
 ### Links
 
 - Solution URL: [github repo](https://github.com/juliedev-web/3-column-card)
-- Live Site URL: [Add live site URL here](https://juliedev-web.github.io/3-column-card/)
+- Live Site URL: [github page](https://juliedev-web.github.io/3-column-card/)
 
 ## My process
 
