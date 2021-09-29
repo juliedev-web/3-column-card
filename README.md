@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/juliedev-web/3-column-card)
-- Live Site URL: [github page](https://juliedev-web.github.io/3-column-card/)
+- Live Site URL: [github page](https://juliedev-web.github.io/FEM_3-column-card/)
 
 ## My process
 
